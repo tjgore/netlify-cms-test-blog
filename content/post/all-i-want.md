@@ -12,7 +12,8 @@ keywords:
   - Poem on All for you (Poetry)
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+thumbnailImage: /images/uploads/354.jpeg
+coverImage: /images/uploads/354.jpeg
 ---
 <center>
 People have secrets<br>
