@@ -1,5 +1,5 @@
 ---
-title: All for You
+title: All for You!
 date: '2018-08-07T21:13:54+05:30'
 categories:
   - blog
