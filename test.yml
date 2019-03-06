@@ -1,0 +1,6 @@
+title: test
+intro: hello world
+team:
+  - name: tj
+    photo: /images/uploads/354.jpeg
+    position: web
