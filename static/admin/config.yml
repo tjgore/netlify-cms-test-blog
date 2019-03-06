@@ -73,6 +73,7 @@ collections:
     files:
       - label: "About Page"
         name: "about"
+        create: true
         file: "test.yml"
         fields:
           - {label: Title, name: title, widget: string}
