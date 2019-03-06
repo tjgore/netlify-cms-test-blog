@@ -25,7 +25,7 @@ collections:
           widget: "relation"
           collection: "pages"
           searchFields: ["title"]
-          valueField: "name"
+          valueField: "title"
           displayFields: ["title"]
 
       - label: "Publish Date"
